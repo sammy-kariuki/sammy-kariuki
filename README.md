@@ -15,7 +15,6 @@ I am Sammy Kariuki, a passionate backend engineer from Kenya.
 - NodeJS
 - Apache
 - Nginx
-- Redis
 - Digital Ocean
 - MySQL
 - Oracle DB
