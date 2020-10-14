@@ -13,16 +13,10 @@ I am Sammy Kariuki, a passionate backend engineer from Kenya.
 - VueJS
 - JavaScript
 - NodeJS
-- Jenkins
 - Apache
 - Nginx
-- Redux
-- Celery
 - Redis
-- AWS / Digital Ocean
+- Digital Ocean
 - MySQL
 - Oracle DB
 - Postgresql
-- Docker
-- Jenkins
-- Kubernetes
