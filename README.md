@@ -2,7 +2,7 @@
 
 I am Sammy Kariuki, a passionate backend engineer from Kenya.
 
-- 🔭 I’m currently working as a Principle Engineer at [PesaWay](https://www.pesaway.com)
+<!---- 🔭 I’m currently working as a Principle Engineer at [PesaWay](https://www.pesaway.com)-->
 - 🌱 I’m currently learning ReactJS, TypeScript and GraphQL
 
 
